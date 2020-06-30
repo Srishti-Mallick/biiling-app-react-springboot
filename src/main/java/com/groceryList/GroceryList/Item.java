@@ -18,7 +18,7 @@ import javax.persistence.UniqueConstraint;
 public class Item {
 	
 	@Id
-	@GeneratedValue
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private Long id;
 	
 	private String product_code;
