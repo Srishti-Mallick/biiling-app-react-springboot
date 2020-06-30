@@ -1,12 +1,8 @@
 # billing-app-react-springboot
 
-Run npm install in reactjs folder.
+Run 'npm install' in reactjs folder.
 
-Install dependencies :
-	react-bootstrap
-	react-router-dom
-	axios
-	fortawesome
+Install dependencies : react-bootstrap, react-router-dom, axios, fortawesome
 
 Run frontend using:- npm start
 
